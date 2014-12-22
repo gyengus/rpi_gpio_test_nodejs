@@ -1,0 +1,18 @@
+{
+  "name": "rpi_gpio_test_nodejs",
+  "version": "1.0.0",
+  "description": "Raspberry PI Node.js GPIO, I2C, SPI test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rpi"
+  ],
+  "author": "Gyengus (Tm)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "debug": "^2.1.0"
+  }
+}

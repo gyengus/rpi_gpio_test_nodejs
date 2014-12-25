@@ -14,4 +14,4 @@ $ sudo node index.js
 </pre>
 Please note: You must run this in root account.
 
-Coming soon: a detailed article in my blog
+For more info <a href='http://gyengus.hu/2014/12/raspberry-pi-gpio-vezerlese-node-js-segitsegevel/?utm_source=github_repo_rpi_gpio_test_nodejs' target='_blank'>click here</a>.

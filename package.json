@@ -1,17 +1,23 @@
 {
   "name": "rpi_gpio_test_nodejs",
   "version": "1.0.0",
-  "description": "Raspberry PI Node.js GPIO, I2C, SPI test",
+  "description": "Raspberry PI Node.js GPIO test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "rpi",
-    "raspberry pi"
+    "raspberry pi",
+    "gpio"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyengus/rpi_gpio_test_nodejs"
+  }, 
   "author": "Gyengus (Tm)",
   "license": "ISC",
+  "readmeFilename": "README.md",
   "dependencies": {
     "rpi-gpio": "^0.5.1"
   }

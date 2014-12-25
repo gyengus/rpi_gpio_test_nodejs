@@ -1,4 +1,4 @@
-var gpio = require('./rpi-gpio.js');
+var gpio = require('rpi-gpio');
 var PIN = 22; // RED LED
 var BTN = 16; // Button
 
